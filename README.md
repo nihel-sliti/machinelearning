@@ -22,7 +22,7 @@ Ce projet vise à **prédire si un patient est diabétique** en utilisant des **
 - **Modèles SVM** : Noyaux linéaire, RBF, polynomial et sigmoïde
 
 ## 📈 Visualisation de la matrice de confusion
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](image/matrice_de_confusion.png)
 
 ## 📂 Structure du code
 - `diabetes_svm_linear` : Modèle avec noyau linéaire
